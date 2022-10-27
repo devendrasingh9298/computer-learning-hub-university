@@ -1,0 +1,43 @@
+.sub-header{
+    width: 100%;
+    height: 60px;
+    background-color: coral;
+}
+.about-heading{
+    text-align: center;
+    color: black;
+    margin-top: 80px;
+}
+.title-clh{
+    color: rgba(1, 233, 254, 0.885);
+    font-weight: bold;
+    font-size: 20px;
+}
+.about-us{
+    width: 80%;
+    margin: auto;
+    padding-top: 180px;
+    padding-bottom: 50px;
+}
+.about-col{
+    flex-basis: 48%;
+    padding: 30px 2px;
+}
+.about-col img{
+    width: 100%;
+}
+.about-col h1{
+    padding-top: 0;
+
+}
+.about-col p{
+    padding: 15px 0 25px;
+}
+.red-btn{
+    border: 1px solid #f44336;
+    background: transparent;
+    color: #f44336;
+}
+.red-btn:hover{
+    color: #fff;
+}

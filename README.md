@@ -1,1 +1,1 @@
-# computer-learning-hub-university
+# university
